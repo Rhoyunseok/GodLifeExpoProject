@@ -5,3 +5,6 @@
 -연결 해제 : adb kill-server
 -시작 : npx expo start --android
 
+.env 파일 상황
+GOOGLE_MAPS_API_KEY=
+EAS_PROJECT_ID=
