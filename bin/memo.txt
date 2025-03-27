@@ -2,6 +2,6 @@
 <노윤석>
 -에뮬레이터 키기 : emulator -avd Pixel_6_API_34
 -연결 확인 및 연결 : adb devices
-- 연결 해제 : adb kill-server
+-연결 해제 : adb kill-server
 -시작 : npx expo start --android
 
